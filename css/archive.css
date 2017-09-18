@@ -88,7 +88,7 @@ body{
 }
 
 p{
-	font-size:1em;
+	font-size:.8em;
     font-family: sans-serif;
     color:black;
     letter-spacing: .25px;
@@ -118,7 +118,7 @@ img{
 }
 
 h1{
-	font-size:  1.8em;
+	font-size:  1.2em;
 	margin-top:10px;
 	margin-bottom: 30px;
 	letter-spacing: .25px;
